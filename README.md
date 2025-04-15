@@ -1,4 +1,4 @@
-![Alt Text](image-url-or-path)
+![Alt Text](https://github.com/user-attachments/assets/c5edefff-34f2-4f97-ac57-35bf6ae3a6b1)
 # 🍟 Store Trial Performance Analysis Project
 
 ## 🚀 Overview
